@@ -1,0 +1,6 @@
+- [x] **F01 — Hero:** propuesta editorial, edición actual, datos de impresión y llamadas a la acción.
+- [x] **F02 — Revista:** archivo de números anteriores y explicación del formato de colección.
+- [x] **F03 — Noticias y reviews:** reportaje principal, artículos filtrables y tarjetas de análisis con puntuación y argumentos.
+- [x] **F04 — Merchandising:** catálogo de cuatro artículos y cesta con contador y subtotal.
+- [x] **F05 — Suscripción:** bloque de promoción y formulario con validación y confirmación local.
+- [x] **Adaptación visual:** responsive y alineada con la referencia neo-brutalista de Stitch.
